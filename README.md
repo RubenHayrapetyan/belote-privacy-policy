@@ -1,8 +1,8 @@
-# Belote Clash - Privacy Policy
+# Belote Academy - Privacy Policy
 
 Last updated: October 16, 2026
 
-This policy explains what information the Belote Clash mobile game ("the app", "we") collects, how it is
+This policy explains what information the Belote Academy mobile game ("the app", "we") collects, how it is
 used, and the choices you have. It applies to the Android and iOS versions of the app and to the game
 server they connect to.
 
