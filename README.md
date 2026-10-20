@@ -1,6 +1,6 @@
 # Belote Academy - Privacy Policy
 
-Last updated: October 16, 2026
+Last updated: October 20, 2026
 
 This policy explains what information the Belote Academy mobile game ("the app", "we") collects, how it is
 used, and the choices you have. It applies to the Android and iOS versions of the app and to the game
@@ -42,8 +42,26 @@ server they connect to.
   displays them.
 - To prevent abuse, fix problems and keep the service working.
 
-We do not sell your information, we do not show ads, and we do not use third-party analytics or
-advertising trackers.
+We do not sell your information and we do not use third-party analytics. The only ads in the app are
+optional reward videos from Google AdMob, described under **Advertising**.
+
+## Advertising
+
+At the end of an online match the app offers a prize, and you can choose to watch a short video ad to
+claim it or to double it. Nothing plays unless you tap to watch, and the app shows no other ads.
+
+The videos come from Google AdMob. To show them, measure them and prevent ad fraud, Google may collect
+information from your device, such as its advertising identifier (where your device allows it), IP
+address, device model and operating system, and how you interact with the ad. Google uses this under its
+own policy: [How Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites).
+We do not receive this information, only totals such as how many ads were shown.
+
+- **EEA, UK and Switzerland:** before any ad is requested, the app shows Google's consent form. You can
+  consent, refuse, or choose purposes and partners one by one. If you refuse, you may still see ads that are
+  not personalized. To answer the form again, clear the app's data or reinstall it.
+- **Everywhere:** you can reset your advertising identifier or limit ad personalization in your device
+  settings (Android: Settings -> Google -> Ads, or Security & privacy -> Ads; iOS: Settings -> Privacy &
+  Security -> Tracking).
 
 ## What other players can see
 
@@ -57,6 +75,7 @@ We share information only:
 - With service providers that host the game server and its database (Amazon Web Services), who process it
   on our behalf.
 - With Google, only to complete "Sign in with Google" when you choose it.
+- With Google AdMob, when you choose to watch a reward video (see **Advertising**).
 - When required by law.
 
 ## Purchases
